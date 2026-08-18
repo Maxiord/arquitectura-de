@@ -1,0 +1,13 @@
+{
+  "name": "arquitectura-de",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diagnostico.js",
+  "scripts": {
+    "diagnostico": "node diagnostico.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
